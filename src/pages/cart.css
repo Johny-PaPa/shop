@@ -1,0 +1,56 @@
+.uih {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.otdel {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.ui{
+    border: 3px solid black;
+        border-radius: 20px;
+        width: 100%;
+        font-size: 35px;
+        margin-top: 20px;
+}
+.hj {
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    width: 100%;
+}
+.iuj {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.uh {
+    padding-top: 15px;
+    text-align: center;
+}
+.uihh {
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+.hg{
+    border: 3px solid black;
+    border-radius: 20px;
+
+    font-size: 40px;
+    margin-top: 20px;
+}
+.qqq{
+    padding-top: 10px;
+}
+.ccc{
+    margin: 20px;
+}

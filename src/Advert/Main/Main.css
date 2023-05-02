@@ -1,0 +1,42 @@
+.CardTov {
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.container2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: calc(100vw - 50px);
+    margin: 0 auto;
+  }
+.kol {
+    position: absolute;
+    left: 60%;
+    bottom: 30%;
+}
+.wit {
+    background-color: white;
+}
+.forge {
+    position: relative;
+}
+.butt {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.sq {
+    border-radius: 20px;
+    border: 3px solid white;
+    background-color: rgba(255,255,255,0);
+    padding: 10px;
+    width: 100%;
+}
+.big {
+    font-size: 60px;
+}

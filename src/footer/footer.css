@@ -1,0 +1,18 @@
+.f1 {
+    float: left;
+  }
+  .f2 {
+    float: right;
+  }
+  .ts {
+    text-align: right;
+    
+  }
+.soc {
+    padding-left: 10px;
+    
+}
+.sqe {
+  border-top: 3px solid black;
+  border-radius: 10px;
+}

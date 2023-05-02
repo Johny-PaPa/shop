@@ -1,0 +1,60 @@
+.momo {
+    font-weight: 100;
+}
+.sawe {
+    margin: 5px;
+}
+.cat_ob_con {
+    cursor: pointer;
+    transition: 1s;
+    width: 1000px;
+}
+.cat_ob_con:hover {
+    transform: scale(1.005);
+}
+.rars {
+    display:flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    
+    grid-gap:250px;
+}
+.arww {
+    text-align: center;
+    margin-top: 70px;
+
+}
+.sasw {
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    cursor: pointer;
+    margin-top: 70px;
+}
+.centr1 {
+    font-size: 100px;
+
+}
+.wito {
+    color: white;
+    font-size: 30px;
+}
+.qd {
+    margin-top: 30px;
+    border-top: 3px dashed black ;
+    border-radius: 10px;
+}
+.opi {
+    text-align: left;
+}
+
+.centr2{
+    white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    text-overflow: ellipsis;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.raz {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.imge {
+    width:600px;
+    padding-top: 20px
+}
+h1 {
+    font-weight: bold;
+}
+.img-fluid {
+    padding-top: 20px
+}

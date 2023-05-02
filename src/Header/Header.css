@@ -1,0 +1,130 @@
+header {
+    background: white;
+    padding-top: 5px;
+    width: 100%;
+
+}
+.buttonkat {
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.bora {
+    display: flex;
+    
+}
+.boka {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    
+}
+.nav-surs{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.bold {
+    font-weight: bold;
+}
+.smal {
+    font-size: 18px;
+}
+.ba {
+    display: flex;
+    justify-content: space-between;
+}
+.bas {
+    display:flex;
+justify-content: center;
+flex-wrap: nowrap;
+align-items: center;
+grid-gap:20px;
+}
+.topaw {
+
+}
+.whitet {
+    color: white;
+    font-size: 22px;
+}
+nav ul {
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    font-size: 22px;
+}
+.oe {
+    padding-right: 15px;
+    
+}
+a {
+    color: black;
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    cursor: default
+   }
+.clock {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+.boshka {
+   margin: 100px; 
+}
+.otstup2 {
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    
+}
+.otstup3 {
+    padding-right: 5px;
+    
+}
+.reg {
+    background-color: white;
+    border-radius: 8px;
+}
+.shop-cart-button {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: color 500ms ease;
+}
+.shop-cart-button:hover,
+.shop-cart-button.active {
+    color: green;
+}
+.shop-cart{
+    position: absolute;
+    left: 600px;
+    top: 70px;
+    bottom: 30px;
+    width: 450px;
+    min-height: 100px;
+    background: #fafafa;
+    z-index: 1000;
+}
+.nav-logog {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.iop {
+    cursor: pointer;
+
+}
